@@ -8,6 +8,7 @@ npm install
 npx expo install --fix     # aligne les versions sur ton SDK
 npx expo start             # a (Android) · i (iOS) · w (web)
 npm run typecheck          # tsc --noEmit
+npm run build              # export web dans dist/ (déploiement Vercel)
 ```
 
 ## Architecture
